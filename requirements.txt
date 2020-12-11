@@ -1,0 +1,6 @@
+Envelopes==0.4
+imap-tools==0.33.0
+python-docx==0.8.10
+xlrd==2.0.1
+xlutils==2.0.0
+xlwt==1.3.0
